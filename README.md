@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @echosniperx
-- 👀 I’m interested in arts and games.
-- 🌱 I’m currently learning CS50 and working on Automation through UIPath Studio.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**About Me!**
+- 👋 Hi, I’m Edward
+- 👨🏽‍💻 I’m currently working in the service industry as a manager
+- 🌱 I’m currently developing RPA bots through UIPath
+- 🤔 My interest lies in Data Science and Machine Learning
+
+
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echosniperx&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=echosniperx&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echosniperx&theme=holi-theme">
+</p>
+
 
 <!---
 echosniperx/echosniperx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
